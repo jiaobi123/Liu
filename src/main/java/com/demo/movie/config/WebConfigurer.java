@@ -6,7 +6,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * 网络配置
- * @author lkmc2
  */
 @Configuration
 public class WebConfigurer implements WebMvcConfigurer {
