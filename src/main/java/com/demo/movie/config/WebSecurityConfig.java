@@ -9,7 +9,6 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 
 /**
  * Spring Security 配置
- * @author lkmc2
  */
 @Configuration
 @EnableGlobalMethodSecurity(prePostEnabled = true) // 开启Spring Security注解
