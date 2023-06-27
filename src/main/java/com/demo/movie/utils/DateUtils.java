@@ -3,9 +3,6 @@ package com.demo.movie.utils;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * @author lkmc2
- */
 public class DateUtils {
     /**
      * 获取当前时间的字符串
