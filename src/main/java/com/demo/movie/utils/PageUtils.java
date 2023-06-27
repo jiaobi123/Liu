@@ -2,7 +2,6 @@ package com.demo.movie.utils;
 
 /**
  * 分页工具
- * @author lkmc2
  */
 public class PageUtils {
     /**
