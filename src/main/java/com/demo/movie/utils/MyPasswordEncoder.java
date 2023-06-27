@@ -4,7 +4,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
  * Spring Security密码解析器
- * @author lkmc2
  */
 public class MyPasswordEncoder implements PasswordEncoder {
     @Override
